@@ -1,4 +1,4 @@
-# 🔍 Big Data Mining with PySpark 🚀
+# 🔍 Big Data Mining with PySpark
 
 A hands-on **big data mining** project built with **Apache Spark (PySpark)**, covering the three classic mining tasks end to end: **Classification**, **Clustering**, and **Association Rule Mining**. Each task runs on a separate real-world dataset and uses Spark MLlib pipelines. ⚡📊
 
